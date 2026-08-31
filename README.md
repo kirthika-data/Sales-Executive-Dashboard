@@ -2,9 +2,10 @@
 
 ## 📊 Overview
 
-The Sales Executive Dashboard is an interactive Power BI dashboard developed to analyze sales performance and profitability.
+The Sales Executive Dashboard is a **personal Power BI project** developed to analyze sales performance and profitability.
 
 The dataset was obtained from Kaggle and used for analysis in Microsoft Excel and Power BI. The dashboard provides an overview of sales, profit, orders, quantity, product performance, categories, customer segments, shipping modes, and regional profitability.
+
 
 ## 🎯 Project Objective
 
