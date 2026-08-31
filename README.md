@@ -67,6 +67,6 @@ The dataset was stored in CSV format and used for analysis in Power BI.
 
 ## 📁 Project Contents
 
-- `Sales_Dataset.csv` – Dataset used for the dashboard
+- `Dataset/Sales_Dataset.csv` – Dataset used for the dashboard
 - `Dashboard_Screenshot.png` – Power BI dashboard preview
 - `README.md` – Project documentation
